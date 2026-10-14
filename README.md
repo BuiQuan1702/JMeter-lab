@@ -36,13 +36,13 @@
 
 ### 4.1. Thread Group
 
-![Thread Group](images/01-thread-group.png)
+![Thread Group](01-thread-group.png)
 
 ### 4.2. Cây Test Plan
 
 Test Plan gồm: HTTP Header Manager, Thread Group (HTTP Request Defaults, 3 HTTP Request kèm Response Assertion, View Results Tree, Summary Report, Aggregate Report).
 
-![Test Plan](images/02-test-plan.png)
+![Test Plan](02-test-plan.png)
 
 ### 4.3. Các HTTP Request
 
@@ -58,31 +58,31 @@ Body của request POST:
 { "title": "Test JMeter", "body": "Noi dung", "userId": 1 }
 ```
 
-![Request POST](images/03-request-post.png)
+![Request POST](/03-request-post.png)
 
 ### 4.4. Response Assertion
 
 Mỗi request kiểm tra Response Code bằng giá trị mong đợi ở bảng trên.
 
-![Assertion](images/04-assertion.png)
+![Assertion](/04-assertion.png)
 
 ## 5. Kết quả thực hiện
 
 ### 5.1. View Results Tree
 
-![Results Tree](images/05-results-tree.png)
+![Results Tree](/05-results-tree.png)
 
 ### 5.2. Summary Report
 
-![Summary Report](images/06-summary-report.png)
+![Summary Report](/06-summary-report.png)
 
 ### 5.3. Aggregate Report
 
-![Aggregate Report](images/07-aggregate-report.png)
+![Aggregate Report](/07-aggregate-report.png)
 
 ### 5.4. HTML Dashboard
 
-![HTML Dashboard](images/08-html-dashboard.png)
+![HTML Dashboard](/08-html-dashboard.png)
 
 ### 5.5. Bảng tổng hợp
 
